@@ -91,3 +91,9 @@
     opacity: 1;
     transform: translateX(-6px);
 }
+
+.navbar-brand{
+    font-family: 'Playball', cursive;
+font-size: 35px;
+}
+
